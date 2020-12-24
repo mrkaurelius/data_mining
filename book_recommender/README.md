@@ -32,7 +32,7 @@ Brute Force ile Nearest Neighbors
 
 #### Keras Doc
 Dolaylı, book_x e belki uyarlanabilir.
-[structured_data/collaborative_filtering_movielens](https://keras.io/examples/structured_data/collaborative_filtering_movielens/)
+[keras docs](https://keras.io/examples/structured_data/collaborative_filtering_movielens/)
 
 ## Notebook'a gore
 
