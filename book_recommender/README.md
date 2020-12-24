@@ -2,12 +2,7 @@
 
 veri madenciliği dersi projesi.
 
-### Kullanılabilecek kütüphaneler
-
-- seaborn
-Seaborn is a Python data visualization library based on matplotlib
-
-- plotly.py
+## Kaynaklar
 
 ### Örnek alınabilecek notebooklar
 
@@ -19,4 +14,8 @@ Notebooklari kategorilerine ayir.
 #### Kategorize Edilmemis
 - https://www.kaggle.com/nayansakhiya/books-visualisation-and-recommendation/notebook#data
 - https://www.kaggle.com/tannergi/book-recommendation-system
+- https://www.kaggle.com/hoshi7/goodreads-analysis-and-recommending-books
 
+### Yararlı olabilecek kaynaklar
+
+- https://keras.io/examples/structured_data/collaborative_filtering_movielens/
