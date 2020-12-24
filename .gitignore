@@ -1,4 +1,1 @@
-book_recommender/data
-.spyproject
-book_recommender/br_venv
-.ipynb_checkpoints/
+venv/
