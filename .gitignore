@@ -1,1 +1,5 @@
 venv/
+br_venv/
+data/
+.ipynb_checkpoints/
+.spyproject/
