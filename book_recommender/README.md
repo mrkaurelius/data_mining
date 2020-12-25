@@ -10,11 +10,11 @@ goodbooks-10k, Book-Crossing
 
 ## Kullanilabilecek algoritmalar
 
-### Supervised Learning (Collab)
+### Supervised Learning (Collaborative)
 - Nearest Neighbors
 - ANN
 
-### Kernel Based (Content)
+### Kernel Based (Content based)
 - Linear kernel
 - Cosine similarity
 

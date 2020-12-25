@@ -3,3 +3,4 @@ br_venv/
 data/
 .ipynb_checkpoints/
 .spyproject/
+my_model/
